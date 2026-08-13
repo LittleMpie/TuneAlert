@@ -11,3 +11,4 @@ public interface Notifier {
     /** ส่งข้อความแจ้งเตือนออกไปทางช่องทางนี้ */
     void send(String message);
 }
+
