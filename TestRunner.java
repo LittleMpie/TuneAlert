@@ -57,6 +57,8 @@ public class TestRunner {
         testCountingNotifier();
         testNotificationService();
 
+     
+
         System.out.println("\n=== Summary ===");
         System.out.println("Passed: " + passed);
         System.out.println("Failed: " + failed);
